@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Kübra 👋
 
-<!--
-**kubratmr/kubratmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 2nd-year Computer Engineering student. I like building software and solving problems. Right now, I am improving my skills in Java and learning Python.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills
+Languages: Java (Intermediate), Python (Learning)
+Topics: Object-Oriented Programming (OOP), Data Structures, Algorithms
+Tools: Git, GitHub Desktop, VS Code, NetBeans , PyCharm
+📈 What I Am Doing
+🐍 Learning Python and writing small programs
+🚀 Practicing algorithms to improve my thinking skills
+💼 Looking for a Summer Internship
+📬 Contact
+[LinkedIn: Kübra Temur](https://www.linkedin.com/in/k%C3%BCbra-temur-0606b43a9/)
+kubratemur85@gmail.com
